@@ -1,7 +1,7 @@
 /*! PhotoSwipe main CSS by Dmytro Semenov | photoswipe.com */
 
 .pswp {
-  --pswp-bg: #000;
+  --pswp-bg: #fff;
   --pswp-placeholder-bg: #222;
   
 
@@ -13,7 +13,7 @@
   /* defined via js:
   --pswp-transition-duration: 333ms; */
   
-  --pswp-icon-color: #fff;
+  --pswp-icon-color: #000;
   --pswp-icon-color-secondary: #4f4f4f;
   --pswp-icon-stroke-color: #4f4f4f;
   --pswp-icon-stroke-width: 2px;
@@ -73,6 +73,7 @@
 .pswp,
 .pswp__scroll-wrap {
 	overflow: hidden;
+	background-color:white;
 }
 
 .pswp__scroll-wrap,

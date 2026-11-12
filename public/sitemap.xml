@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//marias-mac-mini.tail692220.ts.net:8443/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/snapshots/</loc>
+    <loc>//marias-mac-mini.tail692220.ts.net:8443/snapshots/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/v%C3%A4rv/</loc>
+    <loc>//marias-mac-mini.tail692220.ts.net:8443/v%C3%A4rv/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//marias-mac-mini.tail692220.ts.net:8443/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//marias-mac-mini.tail692220.ts.net:8443/tags/</loc>
   </url>
 </urlset>

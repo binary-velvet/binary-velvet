@@ -1,9 +1,10 @@
 ---
-description: Maria Rõhu fotod. Broneeri siin **[30min sessioon](https://cal.com/d/5T91WhKFn8HP9aRnvimfKJ/15min) **või** [tunnine.](https://cal.com/maria-rohu/30min)**
+description: Maria Rõhu foto
 #lastmod: 2023-07-05
-title: Maria Rõhu - fotod
+title: Maria Rõhu - foto
+featured_image: IMGP1579.jpg
 resources:
-  - src: IMGP1005-2.jpg
+  - src: IMGP1579.jpg
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:

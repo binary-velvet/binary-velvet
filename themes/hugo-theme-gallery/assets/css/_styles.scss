@@ -34,7 +34,7 @@ body > header {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    border-radius: 0.5rem;
+    border-radius: 0rem;
     padding-right: 1rem;
     padding-left: 1rem;
     height: 3rem;
@@ -151,16 +151,16 @@ hgroup {
 section.galleries {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));
-  gap: 2rem 1.5rem;
+  gap: 6rem 4rem;
   max-width: 1280px;
 
   @media (min-width: 640px) {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    row-gap: 3rem;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    row-gap: 12rem;
   }
 
   @media (min-width: 1024px) {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -249,18 +249,18 @@ section.gallery {
 .card {
   display: flex;
   flex-direction: column;
-  border-radius: 1rem;
+  border-radius: 0rem;
 
   & > figure {
     aspect-ratio: 3/2;
     width: 100%;
-    border-radius: 1rem;
+    border-radius: 0rem;
   }
 
   & > img,
   & figure > img {
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-    border-radius: 1rem;
+    border-radius: 0rem;
     aspect-ratio: 3/2;
     width: 100%;
     overflow: hidden;
@@ -332,7 +332,7 @@ section.featured {
 .featured-card {
   display: flex;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  border-radius: 1rem;
+  border-radius: 0rem;
   background-position: center;
   background-size: cover;
   aspect-ratio: 1 / 1;

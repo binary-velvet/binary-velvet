@@ -2,3 +2,8 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = ''
 theme = "hugo-theme-gallery"
+
+[params]
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/naiivne"
+    email = "mailto:tuner_misty.1g@icloud.com"
